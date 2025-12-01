@@ -1,4 +1,4 @@
-# 📘 Revenue Leakage Detection & 3-Way Reconciliation System
+# Revenue Leakage Detection & 3-Way Reconciliation System
 Identifying Missing Settlements, Refund Errors & Anomalies in Digital Payments
 
 This project implements a finance-grade reconciliation and revenue-leakage detection workflow using Python and machine learning.
