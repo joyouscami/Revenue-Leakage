@@ -43,7 +43,7 @@ Detects:
 
 ---
 
-##2. Revenue Leakage Detection
+## 2. Revenue Leakage Detection
 
 Flags and quantifies:
 
